@@ -1,0 +1,3 @@
+[submodule "new_template"]
+	path = new_template
+	url = https://github.com/michaellgraves/jekyll-bootstrap-template
