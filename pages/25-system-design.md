@@ -18,3 +18,5 @@ title: System Design
 
 [How to build Yagi antennae](http://radio.meteor.free.fr/us/yagi_fm.html)
 
+[Yagi design](http://www.k7mem.com/Electronic_Notebook/antennas/yagi_vhf.html)
+
