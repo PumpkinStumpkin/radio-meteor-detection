@@ -15,5 +15,6 @@ title: System Design
 1. Objective: receive radio waves at a certain frequency
 2. Operating requirements: outdoors, 3 miles away from radio tower
 3. Procedures to test: create a sample radio source
+
 [How to build Yagi antennae] (http://radio.meteor.free.fr/us/yagi_fm.html)
 
