@@ -14,3 +14,6 @@ The overdense meteors'ion trail lasts for a considerably long time; a couple of 
 There are white and dark parts during a meteor's flight that might lead to signal strengthening or signal weaking by interference.
 
 The high winds in the upper atmosphere may travel 100 meters/sec witch causes Doppler Shifts.
+
+To have a strong meteor echo observation, you want a frequency between 40 and 70 MHz.
+The video carrier of analog TV transmitters have been the best choice for forward meteor scatter monitors, specifically channels 2-5, for many years.
