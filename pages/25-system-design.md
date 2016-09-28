@@ -8,15 +8,18 @@ title: System Design
 1. antennae
 2. amplifier
 3. reciever
-4. storage
+4. data storage
 5. processing
 
 #### Antennae
-1. Objective: receive radio waves at a certain frequency
-2. Operating requirements: outdoors, 3 miles away from radio tower
+1. Objective: receive radio waves at 55.24 MHz
+2. Operating requirements: 
+* outdoors
+* 3 miles away from radio tower (need to confirm)
+* East-West orientation
 3. Procedures to test: create a sample radio source
 
-[How to build Yagi antennae](http://radio.meteor.free.fr/us/yagi_fm.html)
+[How to build a dipole](http://www.arrl.org/files/file/Technology/tis/info/pdf/9106023.pdf)
 
-[Yagi design](http://www.k7mem.com/Electronic_Notebook/antennas/yagi_vhf.html)
+[Dipole tuning](http://www.hamuniverse.com/easydipole.html)
 
