@@ -14,6 +14,7 @@ Make the materials list as specific as possible, and be sure you can get everyth
 
 |Item|Qty|Source|url|
 |---|---|---|---|
-|Aluminum tubing .375" OD 6' length|8|DX Engineering| |
-|Item2|25|Amazon|[Item url](http://www.amazon.com)|
-|Item3|25|Amazon|[Item url](http://www.amazon.com)|
+|Aluminum tubing .375" OD 6' length|8|DX Engineering|[DXE](http://www.dxengineering.com)|
+|Aluminum tubing .5" OD 6' length|4|DX Engineering|[DXE](http://www.dxengineering.com)|
+|Element clamps|6|DX Engineering|[DXE](http://www.dxengineering.com)|
+|Vinyl end caps|8|DX Engineering|[DXE](http://www.dxengineering.com)|
