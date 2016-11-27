@@ -14,6 +14,6 @@ Make the materials list as specific as possible, and be sure you can get everyth
 
 |Item|Qty|Source|url|
 |---|---|---|---|
-|Item1|1|Home Depot| |
+|Aluminum tubing .375" OD 6' length|8|DX Engineering| |
 |Item2|25|Amazon|[Item url](http://www.amazon.com)|
 |Item3|25|Amazon|[Item url](http://www.amazon.com)|
