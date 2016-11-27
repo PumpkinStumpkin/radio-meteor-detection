@@ -18,3 +18,5 @@ Make the materials list as specific as possible, and be sure you can get everyth
 |Aluminum tubing .5" OD 6' length|4|DX Engineering|[DXE](http://www.dxengineering.com)|
 |Element clamps|6|DX Engineering|[DXE](http://www.dxengineering.com)|
 |Vinyl end caps|8|DX Engineering|[DXE](http://www.dxengineering.com)|
+|Coaxial cable 50'|1|DX Engineering|[DXE](http://www.dxengineering.com)|
+|Coaxial cable connector|1|DX Engineering|[DXE](http://www.dxengineering.com)|
