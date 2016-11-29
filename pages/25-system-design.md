@@ -5,11 +5,11 @@ title: System Design
 
 ### Overview
 
-1. antennae
-2. antennae tower
-3. low-noise amplifier
-4. reciever
-5. processing
+1. 4-Element Yagi Antennae
+2. Antennae tower
+3. Low-noise amplifier
+4. Radio Reciever
+5. Processing program
 
 #### 4 Element Yagi Antennae
 1. Objective: receive radio waves at 55.24 MHz, TV Channel 2
