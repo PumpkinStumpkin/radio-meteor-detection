@@ -9,15 +9,16 @@ title: System Design
 2. antennae tower
 3. low-noise amplifier
 4. reciever
-5. data storage
-6. processing
+5. processing
 
-#### Antennae
+#### 4 Element Yagi Antennae
 1. Objective: receive radio waves at 55.24 MHz, TV Channel 2
 2. Operating requirements: 
 * outdoors
 * pointed towards Channel 2 station source
-3. build 4 element Yagi antennae, aluminum elements tuned to 55 MHz
+3. Materials
+* aluminum tubs
+* coaxial cable
 4. Procedures to test: create a sample radio source, find broadcasting station on air and internet
 
 #### Antennae Tower
@@ -25,15 +26,28 @@ title: System Design
 2. Operating requirements: 
 * outdoors
 * specific height determined by wavelength (need to determine)
+3. Materials
+* PVC piping
+* Guy wires
 
 #### Low Noise Amplifier
 1. Objective: amplify recieved signal with minimal noise
 2. Operating requirements: 
 * outdoors
 * located next to antennae
+3. Materials
+* packaged LNA unit
 
 #### Reciever
-1. Objective: 
+1. Objective: recieve radio signals
 2. Operating requirements: 
-* outdoors
-* specific height determined by wavelength (need to determine)
+* indoors
+* capable of recieving 55 MHz
+3. Materials
+* Raspberry Pi
+* Software Defined Radio 
+
+#### Processing
+1. Objective: analyze radio signals, detect possible meteors based on signal
+2. Operating requirements: 
+* Python program running on Raspberry pi
