@@ -6,14 +6,4 @@ title: Hypothesis
 ### Overview
 Is it possible to reliably detect meteors using a software defined radio?
 
-Two types of meteors: underdense and overdense
-
-The underdense meteor's ion trail only lasts for a few tenths of a second and is normally dimmer. Is not ideal for radio waves to bounce off.
-The overdense meteors'ion trail lasts for a considerably long time; a couple of seconds. These meteors are rarer and are brighter. These are good for bouncing radio waves off of but can be scattered by the high winds in the upper atmosphere.
-
-There are white and dark parts during a meteor's flight that might lead to signal strengthening or signal weaking by interference.
-
-The high winds in the upper atmosphere may travel 100 meters/sec witch causes Doppler Shifts.
-
-To have a strong meteor echo observation, you want a frequency between 40 and 70 MHz.
-The video carrier of analog TV transmitters have been the best choice for forward meteor scatter monitors, specifically channels 2-5, for many years.
+We are going to employ the forward scatter technique, where we detect signal from a distant VHF analog broadcasting station. We will achieve this by placing a VHF reciever tuned to Channel 2 (55 MHz) and measuring the reception through a software defined radio. Meteors will create an ion trail when they enter the Earth's atmosphere. These ion trails will reflect the radio signals being transmitted from distant sources. These ion trails can last for a considerably long time; a couple of seconds to several minutes. We cannot directly recieve these signals due to the Earth's curvature.
