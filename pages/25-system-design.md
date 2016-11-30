@@ -16,6 +16,7 @@ title: System Design
 2. Operating requirements: 
 * outdoors
 * pointed towards Channel 2 station source
+* 1.5 wavelengths high, 9 meters tall, 27 feet
 3. Materials
 * aluminum tubs
 * coaxial cable
