@@ -52,3 +52,14 @@ title: System Design
 1. Objective: analyze radio signals, detect possible meteors based on signal
 2. Operating requirements: 
 * Python program running on Raspberry pi
+
+#### Antennae Rotator
+1. Objective: change direction of antennae to point to radio wave source
+2. Operating requirements: 
+* outdoors
+* accessible from base of antennae tower
+3. Materials
+* DC gear motor 12 v 2 rpm
+* lazy susan bearing
+* DPDT switch
+* 12 v battery
