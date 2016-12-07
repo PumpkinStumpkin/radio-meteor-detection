@@ -28,8 +28,9 @@ title: System Design
 * outdoors
 * specific height determined by wavelength (need to determine)
 3. Materials
-* PVC piping
+* PVC piping 9x10'
 * Guy wires
+* 4 way PVC fittings
 
 #### Low Noise Amplifier
 1. Objective: amplify recieved signal with minimal noise
