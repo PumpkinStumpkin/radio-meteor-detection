@@ -26,11 +26,12 @@ title: System Design
 1. Objective: raise antennae to heigth that minimizes interference and optimizes gain for Channel 2
 2. Operating requirements: 
 * outdoors
-* specific height determined by wavelength (need to determine)
+* wavelength and a half, or 27' tall
 3. Materials
-* PVC piping 9x10'
+* PVC piping 10' 3/4", 18 lengths
 * Guy wires
 * 4 way PVC fittings
+* 44 tee bar fittings
 
 #### Low Noise Amplifier
 1. Objective: amplify recieved signal with minimal noise
